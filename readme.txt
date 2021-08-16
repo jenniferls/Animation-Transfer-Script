@@ -1,4 +1,4 @@
-# Animation transfer script
+Animation transfer script
 
 This script can be used to transfer animations from one skeleton to another regardless of joint orientation differences.
 
