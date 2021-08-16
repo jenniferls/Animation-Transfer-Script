@@ -1,4 +1,8 @@
-Author: Jennifer Larsson-Ståhl
+# Animation transfer script
+
+This script can be used to transfer animations from one skeleton to another regardless of joint orientation differences.
+
+Author: Jennifer Larsson-StÃ¥hl
 Date: 2019-03-09
 
 Included files:
